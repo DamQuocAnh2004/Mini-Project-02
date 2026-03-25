@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_item_category.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/item_category.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_activity_products.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/activity_products.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_activity_home.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/activity_home.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_activity_categories.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/activity_categories.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_activity_login.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_activity_order.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/activity_order.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_item_order_detail.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/item_order_detail.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_activity_invoice.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/activity_invoice.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_activity_product_detail.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.example.shoppingapp-merged_res-38:/layout_item_product.xml.flat",
+        "source": "com.example.shoppingapp-main-40:/layout/item_product.xml"
+    }
+]

@@ -1,0 +1,355 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [androidx.databinding:databinding-adapters:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5ee964b6f9cb47bb68fb026ae9c3c7e9\transformed\databinding-adapters-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:databinding-runtime:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\d9c7f440587c277f1b6c7cba053ecb04\transformed\databinding-runtime-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5fbb448887b33d893dbe2e2a81444d0a\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\693872d4339e4907b76c6f6e96167f53\transformed\material-1.11.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\tinti\.gradle\caches\9.0.0\transforms\864a4074b4b94bb02a58282ea1aac389\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c323850ad6f9202a90ede14d607588de\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\e27f338fec498cedd5b102b23c83b517\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6985a60db04577fa9d56aec5ac5de0cf\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fee292d24af7609262ef6749e2f04cb8\transformed\recyclerview-1.3.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\feb110528bf52a7a0625ae9ca6b6a011\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:17:1-31:12
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0438ac420b5a4f7558625dcd59daa0c8\transformed\fragment-1.6.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\73e0d066d21f8a07ed9bd63cd22f5fd7\transformed\jetified-activity-1.8.2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5dd4dc7b2bf55961fb3678701f21a785\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\53fe1259ace3864a764cca78c96868e8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\46fdd02e28c779fff8fcc503881bfe7f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8c891b66c227d9ccaa30b08bb815073d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4a3cf622956e545791e52f3a000af4e2\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8b66ea453cd3cb28b6913d7273be822d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\54dba244d71730afd3042fb86a1e5347\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4ce2e851cf123bcb7445d6ef41af5320\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\44778b6f7c8f26a22fdce4d7b79aec03\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\afe169081e18b0df7ae1d08461a6a027\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\432feba30be5d5f5426bcf6feb43825e\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\ddaa35329a934799133b61bde14ac91d\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\644aab92cf4bda456dd0754145c848a8\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6c69d11c0cff0ca74caa66bc31ed30c2\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8cb8c9a3a84681479cbe1530e8e382b4\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\bed295ced60e18890806cb9e32068698\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\a83469721c5ea77ffd908d016d2351aa\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\76626ac7769300aa5bebd9ea8f833865\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4934baf90973bd53043c146015fc4f02\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\7580ab70aebfaf5ae863b0c9b6584e88\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\2ca765bd59d4d95755985c3b2cc69ef1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\62be131d27ac802fe4d60a337644e9e6\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\b427beaf54f444f36d242c09b6f322cd\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\d60892ed455cdfb272a17dfe9e348b78\transformed\sqlite-2.4.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\efb9748a80545aea1f9628e3ea49e567\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5bac5b95022dd63b5c6e4726f1d0526b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c6fdec90c1b83f25057687bf5f13f1fe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c5a66bfa487dbb1affeddf160d858c42\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6de876ccecf3d154c77294ad4f4f85e2\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\b3ab464fb46440710945cefe7f77bd99\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c2f5dc513830ff64e486c43c9d524e95\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c372fe188377a7701ff8a449780fc8b6\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:5:5-27:19
+INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:5:5-27:19
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\693872d4339e4907b76c6f6e96167f53\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\693872d4339e4907b76c6f6e96167f53\transformed\material-1.11.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\tinti\.gradle\caches\9.0.0\transforms\864a4074b4b94bb02a58282ea1aac389\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\tinti\.gradle\caches\9.0.0\transforms\864a4074b4b94bb02a58282ea1aac389\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:23:5-29:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\efb9748a80545aea1f9628e3ea49e567\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\efb9748a80545aea1f9628e3ea49e567\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c6fdec90c1b83f25057687bf5f13f1fe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c6fdec90c1b83f25057687bf5f13f1fe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:9:9-35
+	android:label
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:7:9-37
+	android:allowBackup
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:8:9-49
+activity#com.example.shoppingapp.ui.home.HomeActivity
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:11:9-18:20
+	android:exported
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:12:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:14:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.shoppingapp.ui.login.LoginActivity
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:20:9-84
+	android:exported
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:20:58-82
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:20:19-57
+activity#com.example.shoppingapp.ui.products.ProductsActivity
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:21:9-90
+	android:exported
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:21:64-88
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:21:19-63
+activity#com.example.shoppingapp.ui.categories.CategoriesActivity
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:22:9-94
+	android:exported
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:22:68-92
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:22:19-67
+activity#com.example.shoppingapp.ui.productdetail.ProductDetailActivity
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:23:9-100
+	android:exported
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:23:74-98
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:23:19-73
+activity#com.example.shoppingapp.ui.order.OrderActivity
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:24:9-84
+	android:exported
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:24:58-82
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:24:19-57
+activity#com.example.shoppingapp.ui.order.InvoiceActivity
+ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:25:9-86
+	android:exported
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:25:60-84
+	android:name
+		ADDED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml:25:19-59
+uses-sdk
+INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5ee964b6f9cb47bb68fb026ae9c3c7e9\transformed\databinding-adapters-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-adapters:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5ee964b6f9cb47bb68fb026ae9c3c7e9\transformed\databinding-adapters-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\d9c7f440587c277f1b6c7cba053ecb04\transformed\databinding-runtime-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:databinding-runtime:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\d9c7f440587c277f1b6c7cba053ecb04\transformed\databinding-runtime-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5fbb448887b33d893dbe2e2a81444d0a\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5fbb448887b33d893dbe2e2a81444d0a\transformed\jetified-viewbinding-8.2.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\693872d4339e4907b76c6f6e96167f53\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.11.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\693872d4339e4907b76c6f6e96167f53\transformed\material-1.11.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\tinti\.gradle\caches\9.0.0\transforms\864a4074b4b94bb02a58282ea1aac389\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\tinti\.gradle\caches\9.0.0\transforms\864a4074b4b94bb02a58282ea1aac389\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c323850ad6f9202a90ede14d607588de\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c323850ad6f9202a90ede14d607588de\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\e27f338fec498cedd5b102b23c83b517\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\e27f338fec498cedd5b102b23c83b517\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6985a60db04577fa9d56aec5ac5de0cf\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6985a60db04577fa9d56aec5ac5de0cf\transformed\jetified-viewpager2-1.1.0-beta02\AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fee292d24af7609262ef6749e2f04cb8\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fee292d24af7609262ef6749e2f04cb8\transformed\recyclerview-1.3.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\feb110528bf52a7a0625ae9ca6b6a011\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\feb110528bf52a7a0625ae9ca6b6a011\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0438ac420b5a4f7558625dcd59daa0c8\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.6.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0438ac420b5a4f7558625dcd59daa0c8\transformed\fragment-1.6.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\73e0d066d21f8a07ed9bd63cd22f5fd7\transformed\jetified-activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.2] C:\Users\tinti\.gradle\caches\9.0.0\transforms\73e0d066d21f8a07ed9bd63cd22f5fd7\transformed\jetified-activity-1.8.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5dd4dc7b2bf55961fb3678701f21a785\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5dd4dc7b2bf55961fb3678701f21a785\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\53fe1259ace3864a764cca78c96868e8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\53fe1259ace3864a764cca78c96868e8\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\46fdd02e28c779fff8fcc503881bfe7f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\46fdd02e28c779fff8fcc503881bfe7f\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8c891b66c227d9ccaa30b08bb815073d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8c891b66c227d9ccaa30b08bb815073d\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4a3cf622956e545791e52f3a000af4e2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4a3cf622956e545791e52f3a000af4e2\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8b66ea453cd3cb28b6913d7273be822d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8b66ea453cd3cb28b6913d7273be822d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\54dba244d71730afd3042fb86a1e5347\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\54dba244d71730afd3042fb86a1e5347\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4ce2e851cf123bcb7445d6ef41af5320\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4ce2e851cf123bcb7445d6ef41af5320\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\44778b6f7c8f26a22fdce4d7b79aec03\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\44778b6f7c8f26a22fdce4d7b79aec03\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\afe169081e18b0df7ae1d08461a6a027\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\afe169081e18b0df7ae1d08461a6a027\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\432feba30be5d5f5426bcf6feb43825e\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\432feba30be5d5f5426bcf6feb43825e\transformed\jetified-customview-poolingcontainer-1.0.0\AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\ddaa35329a934799133b61bde14ac91d\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\ddaa35329a934799133b61bde14ac91d\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\644aab92cf4bda456dd0754145c848a8\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\644aab92cf4bda456dd0754145c848a8\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6c69d11c0cff0ca74caa66bc31ed30c2\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6c69d11c0cff0ca74caa66bc31ed30c2\transformed\lifecycle-livedata-core-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8cb8c9a3a84681479cbe1530e8e382b4\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\8cb8c9a3a84681479cbe1530e8e382b4\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\bed295ced60e18890806cb9e32068698\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\bed295ced60e18890806cb9e32068698\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\a83469721c5ea77ffd908d016d2351aa\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\a83469721c5ea77ffd908d016d2351aa\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\76626ac7769300aa5bebd9ea8f833865\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\76626ac7769300aa5bebd9ea8f833865\transformed\lifecycle-runtime-2.7.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4934baf90973bd53043c146015fc4f02\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\4934baf90973bd53043c146015fc4f02\transformed\lifecycle-livedata-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\7580ab70aebfaf5ae863b0c9b6584e88\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\7580ab70aebfaf5ae863b0c9b6584e88\transformed\lifecycle-viewmodel-2.7.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\2ca765bd59d4d95755985c3b2cc69ef1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\2ca765bd59d4d95755985c3b2cc69ef1\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\62be131d27ac802fe4d60a337644e9e6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\62be131d27ac802fe4d60a337644e9e6\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\b427beaf54f444f36d242c09b6f322cd\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.4.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\b427beaf54f444f36d242c09b6f322cd\transformed\sqlite-framework-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\d60892ed455cdfb272a17dfe9e348b78\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.4.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\d60892ed455cdfb272a17dfe9e348b78\transformed\sqlite-2.4.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\efb9748a80545aea1f9628e3ea49e567\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\efb9748a80545aea1f9628e3ea49e567\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5bac5b95022dd63b5c6e4726f1d0526b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\5bac5b95022dd63b5c6e4726f1d0526b\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c6fdec90c1b83f25057687bf5f13f1fe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c6fdec90c1b83f25057687bf5f13f1fe\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c5a66bfa487dbb1affeddf160d858c42\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c5a66bfa487dbb1affeddf160d858c42\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6de876ccecf3d154c77294ad4f4f85e2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\6de876ccecf3d154c77294ad4f4f85e2\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\b3ab464fb46440710945cefe7f77bd99\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\b3ab464fb46440710945cefe7f77bd99\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c2f5dc513830ff64e486c43c9d524e95\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c2f5dc513830ff64e486c43c9d524e95\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c372fe188377a7701ff8a449780fc8b6\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\c372fe188377a7701ff8a449780fc8b6\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\tinti\Downloads\ShoppingApp\app\src\main\AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:24:9-28:63
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:28:13-60
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:26:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.6.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\0953b5575bd19c3bcdd37376acfd0e7f\transformed\room-runtime-2.6.1\AndroidManifest.xml:25:13-74
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\efb9748a80545aea1f9628e3ea49e567\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\tinti\.gradle\caches\9.0.0\transforms\efb9748a80545aea1f9628e3ea49e567\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\9ce754121e5a303acd83527d6c1fd308\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.7.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\81678ea4180f0fe75ef9421b1aaa3192\transformed\jetified-lifecycle-process-2.7.0\AndroidManifest.xml:30:17-78
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.shoppingapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.shoppingapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\beeb8e3857f345e6aca1eada9515692f\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\tinti\.gradle\caches\9.0.0\transforms\fa64fa54eb182ab51596f8c51f3947d6\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
